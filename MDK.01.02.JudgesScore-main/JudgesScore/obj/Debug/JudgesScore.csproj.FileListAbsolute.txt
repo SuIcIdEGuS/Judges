@@ -1,0 +1,12 @@
+C:\mdk0102\JudgesScore\JudgesScore\bin\Debug\JudgesScore.exe.config
+C:\mdk0102\JudgesScore\JudgesScore\bin\Debug\JudgesScore.exe
+C:\mdk0102\JudgesScore\JudgesScore\bin\Debug\JudgesScore.pdb
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.csproj.AssemblyReference.cache
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.csproj.SuggestedBindingRedirects.cache
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.Form1.resources
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.Form2.resources
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.Properties.Resources.resources
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.csproj.GenerateResource.cache
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.csproj.CoreCompileInputs.cache
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.exe
+C:\mdk0102\JudgesScore\JudgesScore\obj\Debug\JudgesScore.pdb
